@@ -1,0 +1,25 @@
+* {
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgba(1, 0, 53, 1);
+}
+
+h1 {
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 400px;
+}
+
+.lingkaran {
+    height: 200px;
+    width: 200px;
+    background-color: #FF6E4E;
+    border-radius: 50%;
+    display: inline-block;
+}
